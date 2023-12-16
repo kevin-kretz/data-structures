@@ -19,4 +19,4 @@
    - You can create another array and then link the two arrays together by putting them inside a parent array (making a 2D array)
 
 ## Alternatives
-[Linked Lists](../linked lists/readme.md) - If you don't know how many items will be added to the list.
+[Linked Lists](../linked_lists/readme.md) - If you don't know how many items will be added to the list.

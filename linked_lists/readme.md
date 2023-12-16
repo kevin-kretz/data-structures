@@ -22,4 +22,4 @@
 ## Alternatives
 [Arrays](../arrays/readme.md) - If you know how many items will be added to the list, or want to access information by its index.
 
-[Doubley Linked Lists](../doubley linked lists/readme.md) - If you want to be able to move to the previous node.
+[Doubley Linked Lists](../doubley_linked_lists/readme.md) - If you want to be able to move to the previous node.

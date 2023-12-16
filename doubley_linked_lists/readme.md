@@ -21,4 +21,4 @@
 ## Alternatives
 [Arrays](../arrays/readme.md) - If you know how many items will be added to the list, or want to access information by its index.
 
-[Linked Lists](../linked lists/readme.md) - If you only need to be able to move to the next node.
+[Linked Lists](../linked_lists/readme.md) - If you only need to be able to move to the next node.
