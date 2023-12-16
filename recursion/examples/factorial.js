@@ -1,8 +1,8 @@
 /**
- * Calculates the factorial of a non-negative integer.
+ * Calculates the examples of a non-negative integer.
  *
- * @param int The non-negative integer to calculate the factorial of.
- * @returns number factorial of the given integer.
+ * @param int The non-negative integer to calculate the examples of.
+ * @returns number examples of the given integer.
  */
 function factorial(int) {
     if (int >= 1) {
