@@ -6,10 +6,10 @@
  */
 function factorial(int) {
     if (int >= 1) {
-        return (int * factorial(int - 1));
+        return (int * factorial(int - 1)); // This is the recursion case
     }
     else {
-        return 1
+        return 1  // This is the base case
     }
 }
 
