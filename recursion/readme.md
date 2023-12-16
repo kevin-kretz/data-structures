@@ -1,4 +1,4 @@
-# Doubley Linked Lists
+# Recursion
 
 ## Contents
 - [Common Uses](#common-uses)
