@@ -13,7 +13,7 @@ Mathematically, the factorial of n is defined as:
 - By convention, 0! (factorial of 0) is defined as 1, since it is the empty product.
 - Factorials are not defined for negative integers.
 
-### Factorial example code
+### Solution code
 [factorial.js](./factorial.js)
 
 ## Fibonacci Sequence
@@ -25,5 +25,13 @@ Mathematically, the Fibonacci sequence (denoted by F(n)) can be defined recursiv
 
 > Example: The 6th number of Fibonacci Sequence = 3 + 5 = 8.
 
-### Fibonacci Sequence example code
+### Solution code
 [fibonacci.js](./fibonacci.js)
+
+## Frog crossing a river
+
+### Problem
+There is a frog that wants to cross a river. The river is 11 feet wide. The are stones evenly spaced 1 foot apart, across the whole width of the river. The frog has the ability to jump to first stone, or it can skip the first stone and jump straight to the second stone. After this first decision, it can jump to the next stone, or it can skip the next stone and jump to the stone after it. This continues until it has reached the other side of the river. How many different ways are there for the frog to cross the river?
+
+### Solution code
+[frog-river.js](./frog-river.js)
