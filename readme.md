@@ -4,6 +4,7 @@ These are some of the [data structures](#data-structures) and [algorithms](#algo
 - [Arrays](arrays/readme.md)
 - [Doubley Linked Lists](./doubley_linked_lists/readme.md)
 - [Linked Lists](./linked_lists/readme.md)
+- [Trees](./trees/readme.md)
 
 ## Algorithms
 - [Recursion](./recursion/readme.md)
